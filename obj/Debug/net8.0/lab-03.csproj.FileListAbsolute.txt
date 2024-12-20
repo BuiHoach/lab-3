@@ -1,0 +1,14 @@
+D:\Bt-C#\lab-03\bin\Debug\net8.0\lab-03.exe
+D:\Bt-C#\lab-03\bin\Debug\net8.0\lab-03.deps.json
+D:\Bt-C#\lab-03\bin\Debug\net8.0\lab-03.runtimeconfig.json
+D:\Bt-C#\lab-03\bin\Debug\net8.0\lab-03.dll
+D:\Bt-C#\lab-03\bin\Debug\net8.0\lab-03.pdb
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.AssemblyInfoInputs.cache
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.AssemblyInfo.cs
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.csproj.CoreCompileInputs.cache
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.dll
+D:\Bt-C#\lab-03\obj\Debug\net8.0\refint\lab-03.dll
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.pdb
+D:\Bt-C#\lab-03\obj\Debug\net8.0\lab-03.genruntimeconfig.cache
+D:\Bt-C#\lab-03\obj\Debug\net8.0\ref\lab-03.dll
